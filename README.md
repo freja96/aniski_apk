@@ -5,6 +5,6 @@ Right now aniski works but on alfa version every day to app adds more and more f
 
 If you find bags/crashes please add in Issues ty :)
 
-![alt text](https://github.com/freja96/aniski_apk/blob/master/UI/UI%20item%20design%200.7.jpg)
+![alt text](https://github.com/freja96/aniski_apk/blob/master/icon.png)
 
 Hope you like it.
