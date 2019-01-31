@@ -1,5 +1,6 @@
 # Aniski is android app (android 4.0.4+)
 
+[discord channel](https://discord.gg/bsfEDX)
 Aniski fetches data from [Jikan REST API](https://github.com/jikan-me/jikan)(Unofficial MyAnimeList REST API).
 Right now aniski works but on alfa version every day to app adds more and more features. 
 AD
