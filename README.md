@@ -2,8 +2,9 @@
 
 [![Discord Server](https://img.shields.io/discord/460491088004907029.svg?style=flat&logo=discord)](https://discord.gg/bsfEDX)
 
-# In version 0.2.3 not many updates, morely fix bugs. 
-Now right animation when changing activity(in and back), fixed search system, ads back buttons on activity...
+# Versin Alfa 0.2.3
+In version 0.2.3 not many updates, morely fix bugs. 
+Now right animation when changing activity, fixed search system, adds back buttons on activities...
 #
 
 Aniski fetches data from [Jikan REST API](https://github.com/jikan-me/jikan)(Unofficial MyAnimeList REST API).
