@@ -7,8 +7,7 @@ In version 0.2.3 not many updates, morely fix bugs.
 Now right animation when changing activity, fixed search system, adds back buttons on activities...
 ##
 
-Aniski fetches data from [Jikan REST API](https://github.com/jikan-me/jikan)(Unofficial MyAnimeList REST API).
-Right now aniski works but on alfa version every day to app adds more and more features. 
+Right now aniski works but on alfa version every day,app adds more and more features. 
 AD
 If you find bags/crashes please add in Issues ty :)
 
