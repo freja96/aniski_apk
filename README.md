@@ -1,7 +1,7 @@
 # Aniski is android app (android 4.0.4+)
 
 [![Discord Server](https://img.shields.io/discord/460491088004907029.svg?style=flat&logo=discord)](https://discord.gg/bsfEDX)
-## Version Alfa 0.2.4
+## Version Alfa 0.2.5
 Give us new bugs in infinite scroll (i'll fix it soon)
 
 ## Version Alfa 0.2.3
