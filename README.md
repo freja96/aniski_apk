@@ -11,6 +11,6 @@ Fix bugs
 
 If you find bags/crashes please add in Issues ty :)
 
-![alt text](https://github.com/freja96/aniski_apk/blob/master/icon.png)
+![alt text](https://github.com/freja96/aniski_apk/blob/master/UI/full.jpg)
 
 Hope you like it.
