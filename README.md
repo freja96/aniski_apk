@@ -4,7 +4,7 @@
 
 ##
 
-Added authorization for add more functionality in future(like adding anime to mylist, adding must to see and etc), main activity uses fragment...
+In vesrion 0.7.1 added authorization for add more functionality in future(like adding anime to list, adding must to see and etc), main activity uses fragment...
 Added new fragments like weekly anime, profile
 Fix bugs
 
